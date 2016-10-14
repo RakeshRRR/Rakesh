@@ -6,7 +6,7 @@ public static void main(String [] args){
 ArrayList<Integer> L1 = new ArrayList<Integer>();
 L1.add(1);
 System.out.println(L1);
-int rows = 0;
+int rows = 5;
 for(int i= 1;i <= rows;i++){
 
 ArrayList<Integer> thisRow= new ArrayList<Integer>();
